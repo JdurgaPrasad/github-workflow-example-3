@@ -1,4 +1,4 @@
-name: Workflow-Deployment-Issues
+name: WorkflowDeployment-Issues
 on: issues
 jobs:
   output-info:
